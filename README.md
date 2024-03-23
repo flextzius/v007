@@ -1,7 +1,7 @@
 
 # TeknoYavuz Proje
 
-Projenin çalışır durumda olduğu kısım: https://teknoyavuz.vercel.app
+Proje: https://teknoyavuz.vercel.app
 
 Projenin kodlarını kendi bilgisayarınızda çalıştırmak için Node'a ihtiyacınız var. 
 ```
