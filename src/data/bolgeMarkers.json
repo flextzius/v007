@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "name": "Marmara Bölgesi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.430340164665438,40.560455807926445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "name": "Karadeniz Bölgesi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.825363820955914,40.93603520448849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "name": "Doğu Anadolu Bölgesi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.77390102465964,39.457533977720914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "name": "İç Anadolu Bölgesi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.21474295600456,38.98081646751231
+                    
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "name": "Akdeniz Bölgesi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.87657299338889,36.71741289154933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "name": "Ege Bölgesi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.360707013504367,38.592207050227245 
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "name": "Güneydoğu Anadolu Bölgesi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.63753237880567,37.64423538101592
+                ]
+            }
+        }
+    ]
+}

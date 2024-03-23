@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+}
+
+.mapboxgl-popup-content {
+  background-color: #f8f8f8;
+  font-family: "Open Sans", sans-serif;
+  padding: 1%;
+  border-radius: 2rem;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  ul {
+    li {
+      margin: 0.2rem;
+    }
+  }
+  #popup3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 2rem;
+    background-color: #f8f8f8;
+    ul {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      li {
+        margin: 0.1rem;
+      }
+    }
+  }
+}
+
+.mapboxgl-popup-close-button {
+  background-color: white;
+  border-radius: 50%;
+  padding: 0.5rem;
+}

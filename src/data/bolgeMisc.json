@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id" : 1,
+            "name" : "Akdeniz Bölgesi",
+            "mutfak" : ["Hatay Künefe","Maraş Dondurması","Adana Şalgam suyu ve Kebab","Hatay Tepsi Kebabı"],
+            "dogal" : ["Manavgat Şelalesi","Düden Şelalesi","Damlataş Mağarası","Cennet Cehennem Mağaraları Mersin","Saklıkent Milli Parkı"],
+            "tarih" : ["Perge Aspendos Antik Kentleri Antalya"]
+        },
+        {
+            "id" : 2,
+            "name" : "Doğu Anadolu Bölgesi",
+            "mutfak" : ["Cağ Kebabı – Erzurum","Kadayıf Dolması – Erzurum"],
+            "dogal" : ["Ağrı Dağı – Ağrı","Van Gölü – Van","Palandöken – Erzurum","Nemrut Gölü – Bitlis"],
+            "tarih" : ["İshak Paşa Sarayı – Ağrı"]
+        },
+        {
+            "id" : 3,
+            "name" : "Ege Bölgesi",
+            "mutfak" : ["Kabak Çekirdeği Dolması","Börülce","Otlu Börek","İncir Aydın"],
+            "dogal" : ["Ölü Deniz Muğla","Pamukkale Traverterleri Denizli","Kelebekler Vadisi Muğla"],
+            "tarih" : ["Efes Antik Kenti İzmir","Artemis Tapınağı İzmir","Bergama Antik Kenti İzmir"]
+        },
+        {
+            "id" : 4,
+            "name" : "Güneydoğu Anadolu Bölgesi",
+            "mutfak" : ["Antep Fıstığı", "Baklava", "Ali Nazik" , "Katmer  Gaziantep","Lahmacun", "Çiğ Köfte Şanlıurfa"],
+            "dogal" : ["Nemrut Dağı"],    
+            "tarih" : ["Göbeklitepe Şanlıurfa","Hasankeyf Batman","Malabadi Köprüsü Diyarbakır","Harran evleri Şanlıurfa","Balıklı Göl Şanlıurfa","Zeugma Antik Kenti Gaziantep"]
+        },
+        {
+            "id" : 5,
+            "name" : "İç Anadolu Bölgesi",
+            "mutfak" : ["Mantı Kayseri","Etli Ekmek Konya","Testi Kebabı Yozgat","Mevlana Şekeri Konya"],
+            "dogal" : ["Meke gölü","Peri bacaları (Kapadokya)","Ihlara Vadisi"],
+            "tarih" : ["Çatalhöyük Konya","Odun pazarı evleri","Mevlana Türbesi"]
+        },
+        {
+            "id" : 6,
+            "name" : "Karadeniz Bölgesi",
+            "mutfak" : ["Kuymak – Trabzon","Dible – Giresun","Akçaabat Köftesi – Trabzon","Hamsili Pilav – Trabzon","Elma – Amasya","Leblebi – Çorum","Fındık – Giresun, Ordu"],
+            "dogal" : ["Yedi Göller – Bolu","Ilıca Şelalesi ve Ilıca Mağarası – Kastamonu","Ayder Yaylası – Rize","Giresun Adası – Giresun","Abant Gölü – Bolu"],
+            "tarih" : ["Sümela Manastırı – Trabzon","Alacahöyük – Çorum","Divriği Ulu Camii -Sivas","Ayasofya Camii -Trabzon","Giresun Kalesi – Giresun"]
+        },
+        {
+            "id" : 7,
+            "name" : "Marmara Bölgesi",
+            "mutfak" : ["İskender", "İnegöl Köfte", "Etli Ekmek ve Kestane Şekeri  Bursa","Hoşmerim Tatlı Balıkesir"],
+            "dogal" : ["Uludağ Bursa","Manyas Kuş Cenneti"],
+            "tarih" : ["Selimiye Camii Edirne","Yeşil Türbe ve Ulu Camii Bursa","Çanakkale Şehitler Anıtlığı","Kız Kulesi ve Galata Kulesi İstanbul","Truva Antik Kenti Çanakkale","Ayasofya Müzesi , Sultan Ahmet Camii ve Süleymaniye Camii İstanbul"]
+        }
+    ]
+    
+}
