@@ -16,7 +16,7 @@ Node indirme linki: https://nodejs.org/en/download
 
 ```
 // "git" arayüzüne sahipseniz:
-git clone https://github.com/flextzius/teknoyavuz.git
+git clone https://github.com/flextzius/v007.git
 //komutunu kullanabilirsiniz
 
 //git arayüzüne sahip değilseniz sağ üstte bulunan yeşil "Code" butonundan 
