@@ -10,7 +10,7 @@ const Info = (props) => {
                 <h1>Bölgelerimizi Tanıyalım!</h1>
                 <p>Haritada gitmek istediğiniz bölgenin üstüne tıklayınız.</p>
                 <p>İyi dinlemeler!</p>
-                <audio src={infoAudio} autoPlay={true} />
+                <audio src={infoAudio} controls/>
                 <button className='btn btn-primary' id='continue-button' onClick={() => props.setInfo(false)}>İleri <i className="bi bi-arrow-right"></i></button>
             </div>
         </div>
