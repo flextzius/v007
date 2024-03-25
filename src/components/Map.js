@@ -10,6 +10,7 @@ import egeAudio from '../misc/audio/ege.mp3';
 import akdenizAudio from '../misc/audio/akdeniz.mp3';
 import doguAnadoluAudio from '../misc/audio/dogu_anadolu.mp3';
 import guneydoguAnadoluAudio from '../misc/audio/guneydogu_anadolu.mp3';
+import icAnadoluAudio from '../misc/audio/ic_anadolu.mp3';
 
 
 mapboxgl.accessToken = "pk.eyJ1IjoiZmxleHR6aXVzIiwiYSI6ImNsdG4zbXlydzAycmUyanI4eGgyenh0ZXgifQ.C80dE1o4ddVGfnWCnd-FbA";
@@ -48,8 +49,8 @@ const Map = () => {
                 return egeAudio;
             case 4:
                 return guneydoguAnadoluAudio;
-            // case 5:
-            //     return icAnadoluAudio;
+            case 5:
+                return icAnadoluAudio;
             case 6:
                 return karadenizAudio;
             case 7:

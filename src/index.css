@@ -62,3 +62,43 @@ code {
   border-radius: 50%;
   padding: 0.5rem;
 }
+
+#info-container {
+  display: block;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  padding: 1rem;
+  background-color: #f8f8f8;
+}
+
+#infobox {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  top: 50%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 2rem;
+  background-color: #f8f8f8;
+  h1 {
+    font-size: 1.5rem;
+    margin: 0.5rem;
+  }
+  p {
+    font-size: 1rem;
+    margin: 0.5rem;
+  }
+  button {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 2rem;
+    cursor: pointer;
+  }
+
+}
